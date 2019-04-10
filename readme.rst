@@ -1,3 +1,3 @@
 #####################
-JUST A SIMPLE PROJECT
+Just a simple project
 #####################
